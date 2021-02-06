@@ -12,12 +12,20 @@
   },
   "keywords": [
     "mongoose",
-    "express"
+    "mongodb",
+    "express",
+    "REST",
+    "API"
   ],
   "author": "Lei Jing 101217272",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ljingGBC/comp3133_labExercise03/issues"
   },
-  "homepage": "https://github.com/ljingGBC/comp3133_labExercise03#readme"
+  "homepage": "https://github.com/ljingGBC/comp3133_labExercise03#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15",
+    "save": "^2.4.0"
+  }
 }
