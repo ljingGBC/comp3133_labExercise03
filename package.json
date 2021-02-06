@@ -1,0 +1,23 @@
+{
+  "name": "lab3_restaurant_database",
+  "version": "1.0.0",
+  "description": "mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljingGBC/comp3133_labExercise03.git"
+  },
+  "keywords": [
+    "mongoose",
+    "express"
+  ],
+  "author": "Lei Jing 101217272",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljingGBC/comp3133_labExercise03/issues"
+  },
+  "homepage": "https://github.com/ljingGBC/comp3133_labExercise03#readme"
+}
